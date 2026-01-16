@@ -1,5 +1,5 @@
 # VG3T: Visual Geometry Grounded Gaussian Transformer
-### [Paper](https://www.arxiv.org/abs/2512.05988)  | [Project Page](https://wzzheng.net/GaussianAD)  | [Code](https://github.com/wzzheng/GaussianAD) 
+### [Paper](https://www.arxiv.org/abs/2512.05988)  | [Project Page]()  | [Code](https://github.com/junho2000/VG3T) 
 
 > VG3T: Visual Geometry Grounded Gaussian Transformer
 
@@ -13,7 +13,7 @@
 
 ## Demo
 
-![demo](./assets/demo.gif)
+![demo](./assets/demo.mp4)
 
 
 ## Overview
