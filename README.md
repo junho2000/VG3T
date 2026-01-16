@@ -5,7 +5,7 @@
 
 > [Junho Kim](https://junho2000.github.io/) , [Seongwon Lee](https://sungonce.github.io/)$\dagger$
 
-\ $\dagger$ Corresponding Author.
+$\dagger$ Corresponding Author.
 
 ## News
 
@@ -13,7 +13,7 @@
 
 ## Demo
 
-![demo](./assets/demo.mp4)
+![demo](./assets/demo.gif)
 
 
 ## Overview
