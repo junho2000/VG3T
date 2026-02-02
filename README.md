@@ -34,13 +34,10 @@ Our code is based on the excellent work [GaussianFormer](https://github.com/huan
 
 If you find this project helpful, please consider citing the following paper:
 ```
-@misc{kim2025vg3tvisualgeometrygrounded,
-      title={VG3T: Visual Geometry Grounded Gaussian Transformer}, 
-      author={Junho Kim and Seongwon Lee},
-      year={2025},
-      eprint={2512.05988},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.05988}, 
+@article{kim2025vg3tvisualgeometrygrounded,
+  author    = {Junho Kim and Seongwon Lee},
+  title     = {VG3T: Visual Geometry Grounded Gaussian Transformer},
+  journal   = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year      = {2026},
 }
 ```
