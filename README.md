@@ -1,5 +1,5 @@
 # VG3T: Visual Geometry Grounded Gaussian Transformer
-### [Paper](https://www.arxiv.org/abs/2512.05988)  | [Project Page]()  | [Code](https://github.com/junho2000/VG3T) 
+### [Paper](https://www.arxiv.org/abs/2512.05988)  | [Project Page](https://junho2000.github.io/vg3t.github.io/)  | [Code](https://github.com/junho2000/VG3T) 
 
 > VG3T: Visual Geometry Grounded Gaussian Transformer
 
@@ -9,6 +9,7 @@ $\dagger$ Corresponding Author.
 
 ## News
 
+- **[2026/1/31]** VG3T is accepted to ICRA2026!
 - **[2025/12/28]** Paper released on [arXiv](https://www.arxiv.org/abs/2512.05988).
 
 ## Demo
